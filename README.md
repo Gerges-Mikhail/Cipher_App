@@ -15,9 +15,4 @@ Algorithms included in the application:
 <img src="assets/Screenshot_20230130-194516.jpg" width="150" height="350" />
 <img src="assets/Screenshot_20230130-194528.jpg" width="150" height="350" />
 </br>
-<br>
-<img src="assets/Screenshot_20230130-194417.jpg" width="150" height="350" />
-<img src="assets/Screenshot_20230130-194508.jpg" width="150" height="350" />
-<img src="assets/Screenshot_20230130-194516.jpg" width="150" height="350" />
-<img src="assets/Screenshot_20230130-194528.jpg" width="150" height="350" />
-</br>
+
