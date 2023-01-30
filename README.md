@@ -7,3 +7,5 @@ Algorithms included in the application:
 4- Vigenere.
 
 ❮img src="assets/Screenshot_20230130-194325.jpg" width="50" ❯
+❮img src="assets/Screenshot_20230130-194325.jpg" width="50" ❯
+![](assets/Screenshot_20230130-194325.jpg)
