@@ -6,8 +6,8 @@ Algorithms included in the application:
 3- Auto Key
 4- Vigenere.
 <br>
-<img src="assets/Screenshot_20230130-194417.jpg" width="100" height="250" />
-<img src="assets/Screenshot_20230130-194508.jpg" width="100" height="250" />
-<img src="assets/Screenshot_20230130-194516.jpg" width="100" height="250" />
-<img src="assets/Screenshot_20230130-194528.jpg" width="100" height="250" />
+<img src="assets/Screenshot_20230130-194417.jpg" width="100" height="350" />
+<img src="assets/Screenshot_20230130-194508.jpg" width="100" height="350" />
+<img src="assets/Screenshot_20230130-194516.jpg" width="100" height="350" />
+<img src="assets/Screenshot_20230130-194528.jpg" width="100" height="350" />
 </br>
