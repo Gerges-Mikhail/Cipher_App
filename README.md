@@ -6,5 +6,4 @@ Algorithms included in the application:
 3- Auto Key
 4- Vigenere.
 
-❮img src="https://user-images.githubusercontent.com/68674811/215557607-63e23bdf-9af4-4fa3-95d7-4245e790515e.jpg" width="100" ❯
-
+❮img src="assets/Screenshot_20230130-194325.jpg" width="50" ❯
