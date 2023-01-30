@@ -5,3 +5,4 @@ Algorithms included in the application:
 2- Playfair.
 3- Auto Key
 4- Vigenere.
+![Uploading Screenshot_20230130-194325.jpg…]()
