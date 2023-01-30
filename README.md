@@ -8,4 +8,4 @@ Algorithms included in the application:
 
 ❮img src="assets/Screenshot_20230130-194325.jpg" width="50" ❯
 ❮img src="assets/Screenshot_20230130-194325.jpg" width="50" ❯
-![Screenshot_20230130-194325](assets/Screenshot_20230130-194325.jpg width="250")
+![](assets/Screenshot_20230130-194325.jpg =250x)
